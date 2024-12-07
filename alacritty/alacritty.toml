@@ -1,0 +1,16 @@
+# Font configuration
+[font]
+  normal = { family = "Agave Nerd Font Mono", style = "Regular" }
+  size = 14.0
+
+[general]
+working_directory = "/orbit"
+
+# Shell configuration
+[terminal.shell]
+  program = "C:/Program Files/PowerShell/7/pwsh.exe"
+  args = ["-NoLogo", "-NoProfile"]
+
+# Environment variables
+[env]
+  VIMINIT = "source C:/orbit/doc/dotfiles/vim/init.vimrc"
