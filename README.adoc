@@ -1,2 +1,2 @@
 = My dotfiles
-* Neovim = last updated on 7.12.2024
+* Vim : 2024 DEC 7
