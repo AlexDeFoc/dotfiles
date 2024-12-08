@@ -1,2 +1,0 @@
-= My dotfiles
-* Vim : 2024 DEC 7

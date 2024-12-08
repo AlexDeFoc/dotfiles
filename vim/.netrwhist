@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='C:/orbit/doc/dotfiles/vim'
+let g:netrw_dirhist_5='C:/orbit/doc/dotfiles'
+let g:netrw_dirhist_4='C:/orbit/doc'
+let g:netrw_dirhist_3='C:\orbit'
+let g:netrw_dirhist_2='C:/Users/Alefan'
+let g:netrw_dirhist_1='C:\Users\Alefan\vimfiles'

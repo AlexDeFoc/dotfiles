@@ -1,0 +1,2 @@
+1. Vim: mklink "C:/Users/Alefan/_vimrc" "C:/orbit/doc/dotfiles/vim/_vimrc"
+2. Alacritty: mklink /D "C:/Users/Alefan/AppData/Roaming/Alacritty" "C:/orbit/doc/dotfiles/alacritty"

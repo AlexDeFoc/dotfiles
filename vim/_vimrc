@@ -1,0 +1,46 @@
+" General
+set noshowmode
+
+" Gutter
+set relativenumber
+set number
+
+" Command-line
+set history=15
+set wildmenu
+
+" Status line
+set ruler
+set showcmd
+
+" Search
+set incsearch
+
+" Lines
+set nowrap
+set shiftwidth=4
+set smarttab
+set expandtab
+set autoindent
+
+" Disable backup - I ain't worrying about lightining
+set nobackup
+set nowritebackup
+
+" Enable 24-bit colors
+set termguicolors
+
+" Color scheme
+colorscheme sorbet_adjusted
+
+" Highlighting
+syntax on
+
+" Auto filetype detection
+filetype plugin on
+
+" Disable cursor being synched across windows/splits
+set nocursorbind
+
+" Keep 8 lines below cursor
+set scrolloff=8

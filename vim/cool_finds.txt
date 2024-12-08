@@ -1,0 +1,8 @@
+:TOhtml - actually generates a html file for your code
+:write main.c.html - writes the current file
+:suspend / CTRL+Z to suspend vim and then open shell. Exit it by "exit" to come back.
+'0 - makes you go back to where you left vim at.
+use :lcd to change local current directory for that specific split instead of :cd which changes for all splits.
+use :tcd to change local current directory for that specifc tab -||-
+:ls - to list current buffers
+:buffer # - switch to buffer nr #

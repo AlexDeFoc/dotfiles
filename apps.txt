@@ -1,0 +1,2 @@
+1. Vim 9.1 64-bit
+2. Alacritty
