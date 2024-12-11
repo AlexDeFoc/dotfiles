@@ -9,7 +9,8 @@ working_directory = "/orbit"
 # Shell configuration
 [terminal.shell]
 program = "C:/Program Files/PowerShell/7/pwsh.exe"
+args = ["-NoProfile", "-NoLogo"]
 
 # Enviroment variables
 [env]
-VIMRUNTIME = "C:/App/vim/vim91"
+#VIMRUNTIME = "C:/App/vim/vim91"
