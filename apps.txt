@@ -1,2 +1,7 @@
+Apps:
 1. Neovim 0.10.2
 2. Alacritty
+3. XnViewMP Portable 1.8.3
+
+Gaming:
+MultiMC - minecraft client
