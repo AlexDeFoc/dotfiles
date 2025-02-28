@@ -1,0 +1,11 @@
+= Apps:
+* WezTerm: 
+- exe shortcut: powershell "$s=(New-Object -COM WScript.Shell).CreateShortcut('C:\ProgramData\Microsoft\Windows\Start Menu\Programs\orbit\wezterm'); $s.TargetPath='C:\orbit\app\wezterm\wezterm-gui.exe'; $s.Save()"
+- cfg shortcut: mklink /D "C:\Users\Alefan\.config\wezterm" "C:\orbit\doc\dotfiles\windows\app\wezterm"
+
+* Pwsh7:
+- cfg shortcuts:
+-- profile main script: New-Item "C:\Users\Alefan\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" -ItemType SymbolicLink -Value "C:\orbit\doc\dotfiles\windows\app\pwsh7\main.ps1"
+
+* Neovim:
+- cfg shortcut: New-Item "C:\Users\Alefan\AppData\Local\nvim" -ItemType SymbolicLink -Value "C:\orbit\doc\dotfiles\windows\app\nvim"

@@ -1,0 +1,1 @@
+* Shortcuts: mkdir "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\orbit"

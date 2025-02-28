@@ -1,0 +1,2 @@
+= Apps:
+* Neovim: curl -L -o "C:/orbit/down/temp/nvim_setup.msi" "https://github.com/neovim/neovim/releases/latest/download/nvim-win64.msi"

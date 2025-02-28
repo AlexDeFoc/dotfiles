@@ -1,0 +1,5 @@
+= Path vars
+* WezTerm: C:\orbit\app\wezterm
+
+= System vars
+* $XDG_CONFIG_HOME = C:\Users\Alefan\.config
